@@ -51,9 +51,9 @@ Founder @ **Infinity Collaborations** — Building sovereign infrastructure for 
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-william--majanja-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-majanja-8a6430116)
-[![Twitter/X](https://img.shields.io/badge/@1nf1del_-000000?logo=x&logoColor=white)](https://twitter.com/WilliamMajanja)
+[![Twitter/X](https://img.shields.io/badge/@WilliamMajanja-000000?logo=x&logoColor=white)](https://x.com/WilliamMajanja)
 [![GitHub](https://img.shields.io/badge/GitHub-WilliamMajanja-181717?logo=github&logoColor=white)](https://github.com/WilliamMajanja)
-[![Email](https://img.shields.io/badge/Email-william@majanja.dev-D14836?logo=gmail&logoColor=white)](mailto:williammajnjagmail.com)
+[![Email](https://img.shields.io/badge/Email-williammajanjagmail.com-D14836?logo=gmail&logoColor=white)](mailto:williammajnjagmail.com)
 
 ---
 
