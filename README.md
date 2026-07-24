@@ -67,7 +67,7 @@ Founder @ **Infinity Collaborations** — Building sovereign infrastructure for 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WilliamMajanja&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=WilliamMajanja&color=blueviolet&style=flat-square&label=Profile+Views" alt="1,000,000" />
 </div>
 
 ---
