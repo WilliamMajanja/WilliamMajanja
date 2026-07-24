@@ -9,12 +9,12 @@ Founder @ **Infinity Collaborations** — Building sovereign infrastructure for 
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| [**Atlaz**](https://github.com/WilliamMajanja/atlaz) | Trusted Land Intelligence OS for Zanzibar & frontier markets | Next.js 16, MapLibre, Prisma, Ollama, Zustand | 🟢 Active |
-| [**StadiumMesh**](https://github.com/WilliamMajanja/StadiumMesh) | Football fan mesh network + Local AI + Self-custodial wallets | Python, QVAC, Pears, WDK, Tether | 🏆 Tether Dev Cup 2026 |
-| [**StickerSpace**](https://github.com/WilliamMajanja/stickerspace) | Real-time multiplayer sticker battles & trading | Expo 50, React Native, Supabase, Edge Functions | 🚀 Supabase LW15 |
-| [**KuraYangu**](https://github.com/WilliamMajanja/KuraYangu) | African elections observation & mobile voting platform | Python, Flask, PostgreSQL, Minima Protocol, USSD | 🟢 Active |
-| [**Phantom**](https://github.com/WilliamMajanja/Phantom) | Decentralized audio workstation for Raspberry Pi 5 edge | React, Ollama, LoRa Mesh, Minima, RNPE-2 | 🟢 Active |
-| [**CI-Lib**](https://github.com/WilliamMajanja/CI-Lib) | Pure-NumPy Computational Intelligence Library | Python, NumPy, FastAPI, Streamlit, R | 🟢 Active |
+| [**KuraYangu**](https://github.com/WilliamMajanja/KuraYangu) | Elections Observation suite and USSD voting application | Python, Flask, PostgreSQL, Minima Protocol, USSD | 🟢 Active |
+| [**Minima-PiNet-OS**](https://github.com/WilliamMajanja/Minima-PiNet-OS) | Zero-bloat OS for Raspberry Pi — Web3-native, AI-accelerated, enterprise-grade secure | Python, Raspberry Pi, Web3, AI | 🟢 Active |
+| [**CPIP-**](https://github.com/WilliamMajanja/CPIP-) | The Coffee Pot Protocol | Python | 🟢 Active |
+| [**CI-Lib**](https://github.com/WilliamMajanja/CI-Lib) | Computational Intelligence Library | Python, NumPy, FastAPI, Streamlit, R | 🟢 Active |
+| [**Zanzibar**](https://github.com/Wajibika-Mazingira/Zanzibar) | Land administration platform for Zanzibar | TypeScript, Next.js, MapLibre | 🟢 Active |
+| [**AgriPulse-EdgeCluster**](https://github.com/WilliamMajanja/AgriPulse-EdgeCluster) | Edge-native Farm Management on 3-node Pi 5 cluster with Hailo-10H AI acceleration | HTML, FastAPI, Ollama, Hailo NPU | 🟢 Active |
 
 ---
 
