@@ -1,7 +1,7 @@
 # William Majanja
 
 **Land Tech × Edge AI × Decentralized Systems Builder**  
-Founder @ **Infinity Collaborations** — Building sovereign infrastructure for frontier markets
+Founder @ **Infinity Collaborations** — Building sovereign infrastructure for frontier markets I'm on the 
 Peace Operations Training Institute Honor Roll .
 International Peace Support Training Centre - Volunteer . 
 
