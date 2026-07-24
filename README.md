@@ -2,6 +2,8 @@
 
 **Land Tech × Edge AI × Decentralized Systems Builder**  
 Founder @ **Infinity Collaborations** — Building sovereign infrastructure for frontier markets
+Peace Operations Training Institute Honor Roll .
+International Peace Support Training Centre - Volunteer . 
 
 ---
 
