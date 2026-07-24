@@ -1,4 +1,4 @@
-# 👋 William Majanja
+# William Majanja
 
 **Land Tech × Edge AI × Decentralized Systems Builder**  
 Founder @ **Infinity Collaborations** — Building sovereign infrastructure for frontier markets
