@@ -1,106 +1,75 @@
-<div align="center">
-
 # 👋 William Majanja
 
-**Land Tech × Edge AI × Decentralized Systems**
-
-*Building sovereign infrastructure for frontier markets*
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WilliamMajanja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-majanja)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1nf1del_)
-
-</div>
+**Land Tech × Edge AI × Decentralized Systems Builder**  
+Founder @ **Infinity Collaborations** — Building sovereign infrastructure for frontier markets
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech | Status |
-|---------|-------------|------|--------|
-| **[StadiumMesh](https://github.com/WilliamMajanja/StadiumMesh)** | Football fan mesh network: P2P chat + Local AI predictions + Self-custodial tipping | Python, Node.js, QVAC, Pears, WDK | 🏆 Tether Dev Cup 2026 |
-| **[Atlaz](https://github.com/WilliamMajanja/atlaz)** | Trusted Land Intelligence OS for frontier real estate (Zanzibar → Global) | Next.js 16, MapLibre, Prisma, Ollama | 🚀 Production |
-| **[Phantom](https://github.com/WilliamMajanja/Phantom)** | Decentralized audio workstation on Raspberry Pi 5 + Minima blockchain | React, TypeScript, LoRa, Ollama, Minima | 🔬 R&D |
-| **[KuraYangu](https://github.com/WilliamMajanja/KuraYangu)** | African election observation & mobile voting (USSD + Minima blockchain) | Flutter, Python, PostgreSQL, Minima | 🗳️ Active |
-| **[StickerSpace](https://github.com/WilliamMajanja/stickerspace)** | Real-time sticker trading game (Supabase Launch Week 15) | Expo 50, React Native, Supabase | 🎮 Hackathon |
-| **[CI-Lib](https://github.com/WilliamMajanja/CI-Lib)** | Pure-NumPy computational intelligence library + Streamlit dashboard | Python, NumPy, FastAPI, Streamlit | 📚 Library |
-
----
-
-## 🛠️ Tech Stack
-
-```text
-Languages:     Python, TypeScript, Rust, Go, JavaScript, Dart
-Frontend:      React 19, Next.js 16, Expo/React Native, Flutter, Vite, Tailwind CSS
-Backend:       FastAPI, Node.js, Supabase, PostgreSQL, Redis, Prisma
-AI/ML:         Ollama, QVAC SDK, Gemini API, NumPy, scikit-learn, AirLLM
-Edge/Hardware: Raspberry Pi 5, Hailo NPU, LoRa (SX1276), GPIO, k3s
-Decentralized: Minima Protocol, Hyperswarm/Pears, WDK, IPFS, Libp2p
-DevOps:        Docker, Kubernetes (k3s), GitHub Actions, Terraform, Ansible
-```
+| Project | Description | Stack | Status |
+|---------|-------------|-------|--------|
+| [**Atlaz**](https://github.com/WilliamMajanja/atlaz) | Trusted Land Intelligence OS for Zanzibar & frontier markets | Next.js 16, MapLibre, Prisma, Ollama, Zustand | 🟢 Active |
+| [**StadiumMesh**](https://github.com/WilliamMajanja/StadiumMesh) | Football fan mesh network + Local AI + Self-custodial wallets | Python, QVAC, Pears, WDK, Tether | 🏆 Tether Dev Cup 2026 |
+| [**StickerSpace**](https://github.com/WilliamMajanja/stickerspace) | Real-time multiplayer sticker battles & trading | Expo 50, React Native, Supabase, Edge Functions | 🚀 Supabase LW15 |
+| [**KuraYangu**](https://github.com/WilliamMajanja/KuraYangu) | African elections observation & mobile voting platform | Python, Flask, PostgreSQL, Minima Protocol, USSD | 🟢 Active |
+| [**Phantom**](https://github.com/WilliamMajanja/Phantom) | Decentralized audio workstation for Raspberry Pi 5 edge | React, Ollama, LoRa Mesh, Minima, RNPE-2 | 🟢 Active |
+| [**CI-Lib**](https://github.com/WilliamMajanja/CI-Lib) | Pure-NumPy Computational Intelligence Library | Python, NumPy, FastAPI, Streamlit, R | 🟢 Active |
 
 ---
 
-## 🌍 Mission: Sovereign Infrastructure for Frontier Markets
+## 🛠 Tech Stack
 
-| Domain | Problem | My Approach |
-|--------|---------|-------------|
-| **Land Rights** | $10T+ dead capital from insecure tenure | Atlaz: Source-aware land intelligence + provenance |
-| **Elections** | Trust deficit in African democracies | KuraYangu: USSD voting + blockchain audit trail |
-| **AI Access** | Cloud dependency, data extraction | Edge AI: Local LLMs on Pi 5 + Hailo NPU |
-| **Connectivity** | No internet in rural areas | Mesh networking: Pears/Hyperswarm + LoRa |
-| **Finance** | Unbanked, custodial risk | Self-custodial: Minima + WDK + Lightning |
+**Languages:** `Python` `TypeScript` `JavaScript` `Rust` `Go` `SQL`  
+**AI/ML:** `Ollama` `QVAC` `PyTorch` `NumPy` `scikit-learn` `R`  
+**Frontend:** `React` `Next.js` `Expo` `React Native` `Tailwind CSS` `MapLibre`  
+**Backend:** `FastAPI` `Supabase` `PostgreSQL` `Redis` `Deno` `Edge Functions`  
+**Decentralized:** `Minima Protocol` `Pears/Hyperswarm` `Tether WDK` `LoRa Mesh`  
+**Edge/Embedded:** `Raspberry Pi 5` `Hailo NPU` `Bare Metal` `k3s` `k8s`  
+**DevOps:** `Docker` `GitHub Actions` `k3s` `Kustomize` `Prometheus` `Grafana`  
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Achievements & Highlights
 
-<div align="center">
+- 🥇 **Tether Developers Cup 2026** — 3-track entry (QVAC + Pears + WDK)
+- 🚀 **Supabase Launch Week 15** — StickerSpace submission
+- 🌍 **Minima PiNet OS** — Sovereign edge computing stack
+- 🗳️ **KuraYangu** — 7 African countries, USSD + blockchain voting
+- 📊 **CI-Lib** — 7 CI domains, 10+ viz libs, 60+ R packages
+
+---
+
+## 📈 GitHub Stats
 
 ![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamMajanja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamMajanja&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-william--majanja-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/william-majanja-8a6430116)
+[![Twitter/X](https://img.shields.io/badge/@1nf1del_-000000?logo=x&logoColor=white)](https://twitter.com/1nf1del_)
+[![GitHub](https://img.shields.io/badge/GitHub-WilliamMajanja-181717?logo=github&logoColor=white)](https://github.com/WilliamMajanja)
+[![Email](https://img.shields.io/badge/Email-william@majanja.dev-D14836?logo=gmail&logoColor=white)](mailto:william@majanja.dev)
 
 ---
 
-## 🎯 Current Focus
+## 💭 Currently Exploring
 
-- **Atlaz v2** — Global expansion beyond Zanzibar, tokenized land rights
-- **Minima PiNet OS** — Full-stack edge OS for sovereign compute
-- **StadiumMesh v2** — Multi-stadium federation, mainnet WDK integration
-- **CI-Lib** — Adding differentiable programming + JAX backend
-
----
-
-## 🤝 Open to Collaborate On
-
-- **Land administration** pilots in East/West Africa
-- **Edge AI** deployments on resource-constrained hardware
-- **Decentralized identity** for civic applications
-- **Mesh networking** for offline-first apps
-
----
-
-## 📫 Let's Build
-
-```bash
-# Clone my best work
-gh repo clone WilliamMajanja/atlaz
-gh repo clone WilliamMajanja/StadiumMesh
-gh repo clone WilliamMajanja/KuraYangu
-
-# Run locally (zero config)
-cd atlaz && npm install && npm run dev
-```
+- **Local-first AI** — QVAC, AirLLM, Ollama on edge hardware
+- **P2P mesh networking** — Hyperswarm, LibP2P, LoRa for offline comms
+- **Sovereign identity** — Minima Protocol, DID, verifiable credentials
+- **Frontier market tech** — Land admin, elections, agri-tech in Africa
 
 ---
 
 <div align="center">
-
-**⭐ Star a repo if you believe frontier markets deserve sovereign tech!**
-
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
-
+  <img src="https://komarev.com/ghpvc/?username=WilliamMajanja&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
+
+---
+
+> *"The best way to predict the future is to build it on the edge."* — Building sovereign, local-first, decentralized systems for the next billion users.
